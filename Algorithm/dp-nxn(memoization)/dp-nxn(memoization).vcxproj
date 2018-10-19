@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{23BB407C-FC95-48E3-BBC5-D757FE5A916E}</ProjectGuid>
-    <RootNamespace>dynamicprogramming</RootNamespace>
+    <ProjectGuid>{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}</ProjectGuid>
+    <RootNamespace>dpnxnmemoization</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
-    <ProjectName>dp-nxn</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

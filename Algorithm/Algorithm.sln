@@ -33,9 +33,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9012괄호", "9012괄호\90
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1996프린터 큐", "1996프린터 큐\1996프린터 큐.vcxproj", "{02537008-6402-4D1C-8E4C-ABF37D7BB229}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic-programming", "dynamic-programming\dynamic-programming.vcxproj", "{23BB407C-FC95-48E3-BBC5-D757FE5A916E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dp-nxn", "dynamic-programming\dynamic-programming.vcxproj", "{23BB407C-FC95-48E3-BBC5-D757FE5A916E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memoization", "memoization\memoization.vcxproj", "{DFB77504-1695-431F-B134-0944F246C660}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dp-nxn(memoization)", "dp-nxn(memoization)\dp-nxn(memoization).vcxproj", "{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +183,14 @@ Global
 		{DFB77504-1695-431F-B134-0944F246C660}.Release|x64.Build.0 = Release|x64
 		{DFB77504-1695-431F-B134-0944F246C660}.Release|x86.ActiveCfg = Release|Win32
 		{DFB77504-1695-431F-B134-0944F246C660}.Release|x86.Build.0 = Release|Win32
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Debug|x64.ActiveCfg = Debug|x64
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Debug|x64.Build.0 = Debug|x64
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Debug|x86.Build.0 = Debug|Win32
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Release|x64.ActiveCfg = Release|x64
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Release|x64.Build.0 = Release|x64
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Release|x86.ActiveCfg = Release|Win32
+		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
