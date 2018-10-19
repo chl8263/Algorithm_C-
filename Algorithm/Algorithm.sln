@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memoization", "memoization\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dp-nxn(memoization)", "dp-nxn(memoization)\dp-nxn(memoization).vcxproj", "{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dp-matrix-chain_multiplication", "dp-matrix-chain_multiplication\dp-matrix-chain_multiplication.vcxproj", "{6B213B02-E2F5-4D27-862B-13828A0E6A10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Release|x64.Build.0 = Release|x64
 		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Release|x86.ActiveCfg = Release|Win32
 		{3A8877BA-4C94-4EAD-843E-D31E9EA52B43}.Release|x86.Build.0 = Release|Win32
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Debug|x64.ActiveCfg = Debug|x64
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Debug|x64.Build.0 = Debug|x64
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Debug|x86.Build.0 = Debug|Win32
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Release|x64.ActiveCfg = Release|x64
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Release|x64.Build.0 = Release|x64
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Release|x86.ActiveCfg = Release|Win32
+		{6B213B02-E2F5-4D27-862B-13828A0E6A10}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
