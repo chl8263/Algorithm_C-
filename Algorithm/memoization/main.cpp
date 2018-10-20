@@ -33,7 +33,9 @@ int main() {
 		cache[i] = -1;
 	}
 
-	fib(number);
+	int a =fib(number);
+
+	cout << a;
 	
 
 }
