@@ -1,5 +1,5 @@
 #include<iostream>
-
+#include<vector>
 using namespace std;
 
 void func(int n) {

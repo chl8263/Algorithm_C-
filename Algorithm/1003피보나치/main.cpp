@@ -31,6 +31,7 @@ int main() {
 	int t2;
 	vector<int> v;
 
+
 	cache0[0] = 1;
 	cache1[1] = 1;
 
